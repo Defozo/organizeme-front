@@ -64,6 +64,13 @@ html,body {
   outline: none !important;
   color: #98D361 !important;
 }
+.conference-icon{
+	width: 50%;
+	height: 50%;
+}
+.conference-tile{
+	color: #E84D0C;
+}
 .banner-info-left h2{
   font-size: 2em;
   margin: 9em 0 1em 0;
